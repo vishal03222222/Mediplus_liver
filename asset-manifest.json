@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20457ee4.css",
+    "main.js": "/static/js/main.9fefec23.js",
+    "static/js/453.c5324688.chunk.js": "/static/js/453.c5324688.chunk.js",
+    "static/media/call-bg.jpg": "/static/media/call-bg.61f87d43a8e07f7aef6d.jpg",
+    "static/media/video-bg.jpg": "/static/media/video-bg.69c4a1f126487adc3459.jpg",
+    "static/media/testi-bg.jpg": "/static/media/testi-bg.f74752263bd42d3a5725.jpg",
+    "static/media/signup-bg.jpg": "/static/media/signup-bg.367a43e9a587085298b9.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.79b0ec261c19674372eb.jpg",
+    "static/media/mission-img.jpg": "/static/media/mission-img.5bf2c776151fae887dd7.jpg",
+    "static/media/fun-bg.jpg": "/static/media/fun-bg.1d5c36fe2cb4463d4e09.jpg",
+    "static/media/blockqoute-bg.jpg": "/static/media/blockqoute-bg.532159996bc36d06578c.jpg",
+    "static/media/client-bg.jpg": "/static/media/client-bg.7f4dc2634ceb281aff8e.jpg",
+    "index.html": "/index.html",
+    "main.20457ee4.css.map": "/static/css/main.20457ee4.css.map",
+    "main.9fefec23.js.map": "/static/js/main.9fefec23.js.map",
+    "453.c5324688.chunk.js.map": "/static/js/453.c5324688.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20457ee4.css",
+    "static/js/main.9fefec23.js"
+  ]
+}
